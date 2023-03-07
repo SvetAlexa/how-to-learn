@@ -1,7 +1,9 @@
 .khan__buy-link {
+  display: inline-flex;
   line-height: 42px;
   font-size: 30px;
   color: #2f80ed;
   font-weight: normal;
+  align-self: flex-start;
   text-decoration: none;
 }
