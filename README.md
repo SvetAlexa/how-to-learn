@@ -11,4 +11,4 @@
 
 При создании сайта использована CSS-анимация и подключены видео с помощью iframe.
 
-Ссылка на сайт https://svetalexa.github.io/how-to-learn/
+[Ссылка на сайт](https://svetalexa.github.io/how-to-learn/)
